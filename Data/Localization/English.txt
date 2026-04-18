@@ -1,0 +1,42 @@
+# Localization Dictionary - English
+# Format: Unused	Key	Unused	Value (Tab separated)
+# Column[1] = Dictionary key (for GetString/Tr lookup)
+# Column[3] = Translated value
+x	GameTitle	x	Click The Blocks
+x	StartGame	x	Start Game
+x	PauseGame	x	Pause Game
+x	ResumeGame	x	Resume Game
+x	GameOver	x	Game Over
+x	Score	x	Score
+x	HighScore	x	High Score
+x	TimeRemaining	x	Time Remaining
+x	NewRecord	x	New Record!
+x	ClickBlocks	x	Click blocks to score!
+x	Settings	x	Settings
+x	Sound	x	Sound
+x	Music	x	Music
+x	Volume	x	Volume
+x	Back	x	Back
+x	Restart	x	Restart
+x	Quit	x	Quit
+x	Ready	x	Ready
+x	Playing	x	Playing
+x	Paused	x	Paused
+x	BlocksLeft	x	Blocks Left
+x	TestOverlay	x	Test Overlay
+x	WelcomeMessage	x	Welcome to Click The Blocks!
+x	Instructions	x	Click green blocks to score, avoid red blocks!
+x	ScoreFormat	x	Score: {0}
+x	TimeFormat	x	Time: {0}s
+x	BlockCountFormat	x	Blocks: {0}/{1}
+x	CountdownFormat	x	{0}...
+x	GameOverMessage	x	Game Over! Final Score: {0}
+x	HighScoreMessage	x	High Score: {0}
+x	PressEnterToStart	x	>>> Press Enter or Click to Start <<<
+x	GameRules	x	Green: +10 | Red: -5 (3s) | 30 seconds | Esc: Pause
+x	PressEscToResume	x	Press Esc to Resume
+x	PressEnterToContinue	x	Press Enter to Restart
+x	DemoSubtitle	x	GGF Demo Game
+x	PhaseInfo	x	Phase 1-7 Feature Demonstration
+x	SwitchLanguage	x	中文
+x	HUDBlocks	x	Blocks: {0}
