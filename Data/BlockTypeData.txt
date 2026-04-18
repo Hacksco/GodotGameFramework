@@ -1,4 +1,0 @@
-# 方块类型数据表
-# 格式：Id	Name	Score	ColorR	ColorG	ColorB	AutoHide	Lifetime（使用 Tab 分隔）
-1	ScoreBlock	10	0.2	0.8	0.2	false	0
-2	RedBlock	-5	0.9	0.2	0.2	true	3.0

@@ -1,6 +1,0 @@
-# 这是测试用配置文件
-# 格式：类型	Name	Unused	Value（使用 Tab 分隔）
-bool	IsSoundEnabled	x	true
-int	MaxLevel	x	100
-float	DropRate	x	0.75
-string	GameName	x	GGF Test Game

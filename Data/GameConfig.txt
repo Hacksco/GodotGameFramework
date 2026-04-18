@@ -1,7 +1,0 @@
-# 游戏配置文件 - Click The Blocks
-# 格式：类型	Name	Unused	Value（使用 Tab 分隔）
-int	MaxBlocks	x	8
-float	SpawnInterval	x	1.5
-int	GameDuration	x	30
-float	PlayAreaWidth	x	800
-float	PlayAreaHeight	x	600
